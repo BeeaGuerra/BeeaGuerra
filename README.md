@@ -14,8 +14,8 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=FOLLOWERS&style=for-the-badge&color=15152b&labelColor=00e5ff" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=BeeaGuerra&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/BeeaGuerra?label=FOLLOWERS&style=for-the-badge&color=15152b&labelColor=00e5ff" alt="Followers"/>
 
 </div>
 
@@ -128,7 +128,7 @@ Portfolio pessoal desenvolvido para apresentar minha trajetória, habilidades e 
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/BeeaGuerra">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -185,9 +185,9 @@ Next objective:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeeaGuerra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeeaGuerra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
@@ -197,7 +197,7 @@ Next objective:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=BeeaGuerra&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Streak"/>
 
 </div>
 
@@ -207,7 +207,7 @@ Next objective:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BeeaGuerra&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -217,7 +217,7 @@ Next objective:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BeeaGuerra&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -227,7 +227,7 @@ Next objective:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/BeeaGuerra/BeeaGuerra/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -237,15 +237,15 @@ Next objective:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/beatrizpereiraguerra">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:beapereiraguerra@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/BeeaGuerra">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
