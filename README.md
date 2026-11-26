@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--                         SYSTEM INITIALIZATION                          -->
+<!--                         SYSTEM INITIALIZATION                           -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -32,26 +32,31 @@
 │  ROLE          : COMPUTER ENGINEERING STUDENT                │
 │  SPECIALIZATION: SOFTWARE DEVELOPMENT                        │
 │  CURRENT MODE  : LEARNING • BUILDING • EVOLVING              │
-│  LOCATION      : BRAZIL 🇧🇷                                  │
+│  LOCATION      : BRAZIL 🇧🇷                                   │
 │                                                              │
-│  SYSTEM MESSAGE:                                              │
+│  SYSTEM MESSAGE:                                             │
 │  "Turning ideas into technology, one project at a time."     │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-> ABOUT_ME.exeOlá! Eu sou a Beatriz Guerra, estudante de Engenharia da Computação e apaixonada por tecnologia, desenvolvimento de software e inovação.Minha jornada na programação começou pelo desenvolvimento web, onde descobri o quanto gosto de transformar ideias em interfaces e soluções funcionais.Atualmente, venho construindo minha base em HTML, CSS e JavaScript, enquanto avanço nos estudos de React, Java, bancos de dados e desenvolvimento Full Stack.Gosto de aprender colocando a mão na massa: criar projetos, resolver problemas, experimentar tecnologias e transformar conhecimento em algo que possa ser utilizado de verdade.Meu objetivo é evoluir constantemente como desenvolvedora e construir soluções que unam tecnologia, criatividade e propósito.YAMLname: Beatriz Guerra
+> ABOUT_ME.exe
+Olá! Eu sou a Beatriz Guerra, estudante de Engenharia da Computação e apaixonada por tecnologia, desenvolvimento de software e inovação.Minha jornada na programação começou pelo desenvolvimento web, onde descobri o quanto gosto de transformar ideias em interfaces e soluções funcionais.Atualmente, venho construindo minha base em HTML, CSS e JavaScript, enquanto avanço nos estudos de React, Java, bancos de dados e desenvolvimento Full Stack.Gosto de aprender colocando a mão na massa: criar projetos, resolver problemas, experimentar tecnologias e transformar conhecimento em algo que possa ser utilizado de verdade.Meu objetivo é evoluir constantemente como desenvolvedora e construir soluções que unam tecnologia, criatividade e propósito.YAMLname: Beatriz Guerra
 education: Computer Engineering
+
 focus:
 - Web Development
 - Front-end
 - Full Stack
 - Software Development
+
 currently_learning:
 - React
 - Java
 - APIs
 - Databases
 - Software Engineering
+
 mindset: "Learn. Build. Improve. Repeat."
+
 > TECH_STACK --scanLANGUAGESFRAMEWORKS & DEVELOPMENTDATABASES & TOOLS> TOOLS.IN_USESYSTEMTECHNOLOGYSTATUS🌐HTML5ACTIVE🎨CSS3ACTIVE⚡JavaScriptACTIVE⚛️ReactLEARNING☕JavaLEARNING🗄️SQL / DatabasesLEARNING🔧Git & GitHubACTIVE🖥️VS CodeACTIVE> PROJECTS --open💻 Personal PortfolioPortfolio pessoal desenvolvido para apresentar minha trajetória, habilidades e projetos.StackHTML CSS JavaScript🚀 More Projects IncomingNovos projetos estão sendo desenvolvidos enquanto amplio meus conhecimentos em desenvolvimento web e Full Stack.StatusBUILDING...SYSTEM NOTE: Mais projetos serão adicionados conforme minha jornada de desenvolvimento evolui.> CURRENT_MISSION.shBash$ ./current-mission.sh
 
 [■■■■■■■■■■■■■■░░░░░░] 70%
@@ -71,9 +76,9 @@ Next objective:
 > GITHUB_STATS --analyze> CONTRIBUTION_STREAK> ACTIVITY_GRAPH> TROPHIES --unlock> CONTRIBUTION_MATRIX> CONNECT_TO_NETWORKPlaintext
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║       "THE FUTURE IS BUILT BY THOSE WHO CREATE IT."         ║
+║       "THE FUTURE IS BUILT BY THOSE WHO CREATE IT."          ║
 ║                                                              ║
-║                  SYSTEM STATUS: ONLINE                      ║
+║                  SYSTEM STATUS: ONLINE                       ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
