@@ -85,7 +85,7 @@ mindset: "Learn. Build. Improve. Repeat."
 
 ---
 
-## > PROJECTS --open
+## `> PROJECTS --open
 
 ### 💻 Personal Portfolio
 
@@ -103,7 +103,7 @@ Novos projetos estão sendo desenvolvidos enquanto amplio meus conhecimentos em 
 
 ---
 
-## > CURRENT_MISSION.sh
+## `> CURRENT_MISSION.sh
 
 ```bash
 $ ./current-mission.sh
@@ -123,53 +123,70 @@ MISSION STATUS: RUNNING...
 Next objective:
 → Transform knowledge into real-world projects.
 ```
+
 ---
 
+## `> GITHUB_STATS --analyze
 
-## > GITHUB_STATS --analyze
 
-### 🔥 CONTRIBUTION_STREAK
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeeaGuerra&theme=midnight-purple&hide_border=true&background=0D1117&ring=9D65C9&fire=9D65C9&currStreakLabel=9D65C9" width="90%" />
-</p>
+## `> GITHUB_STATS --analyze
 
-### 📊 ACTIVITY_GRAPH
+## `> 🔥 CONTRIBUTION_STREAK
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeeaGuerra&bg_color=0D1117&color=9D65C9&line=9D65C9&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=BeeaGuerra&theme=midnight-purple&hide_border=true&background=0D1117&ring=9D65C9&fire=9D65C9&currStreakLabel=9D65C9"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
-### 🏆 TROPHIES --unlock
+## `> 📊 ACTIVITY_GRAPH
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BeeaGuerra&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BeeaGuerra&bg_color=0D1117&color=9D65C9&line=9D65C9&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
-### 🧊 CONTRIBUTION_MATRIX --3D
+## `> 🏆 TROPHIES --unlock
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BeeaGuerra/BeeaGuerra/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Matrix" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=BeeaGuerra&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4"
+    width="100%"
+    alt="GitHub Trophies"
+  />
 </p>
 
-### 🌐 CONNECT_TO_NETWORK
+## `> 🧊 CONTRIBUTION_MATRIX --3D
+
+<p align="center">
+  <img
+    src="https://github-profiles-insights.vercel.app/api/contrib-3d?username=BeeaGuerra&style=alberto&animate=true"
+    width="100%"
+    alt="Animated 3D Contribution Calendar"
+  />
+</p>
+
+---
+
+## `> 🌐 CONNECT_TO_NETWORK
 
 <p align="center">
   <a href="https://github.com/BeeaGuerra">
-    <img src="https://img.shields.io/badge/GITHUB-BEEAGUERRA-9D65C9?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-BeeaGuerra-9D65C9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <i>THE FUTURE IS BUILT BY THOSE WHO CREATE IT.</i>
+  <i>"THE FUTURE IS BUILT BY THOSE WHO CREATE IT."</i>
   <br/>
   <b>SYSTEM STATUS: ONLINE</b>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9d65c9,50:3b234a,100:16121a" width="100%" />
-</p>
-
 
 
 ╔══════════════════════════════════════════════════════════════╗
