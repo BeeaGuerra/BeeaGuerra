@@ -40,12 +40,14 @@
 └──────────────────────────────────────────────────────────────┘
 > ABOUT_ME.exe
 Olá! Eu sou a Beatriz Guerra, estudante de Engenharia da Computação e apaixonada por tecnologia, desenvolvimento de software e
-inovação.Minha jornada na programação começou pelo desenvolvimento web, onde descobri o quanto gosto de transformar ideias em
-interfaces e soluções funcionais.Atualmente, venho construindo minha base em HTML, CSS e JavaScript, enquanto avanço nos estudos
-de React, Java, bancos de dados e desenvolvimento Full Stack.Gosto de aprender colocando a mão na massa: criar projetos,
+inovação. Minha jornada na programação começou pelo desenvolvimento web, onde descobri o quanto gosto de transformar ideias em
+interfaces e soluções funcionais. Atualmente, venho construindo minha base em HTML, CSS e JavaScript, enquanto avanço nos
+estudos de React, Java, bancos de dados e desenvolvimento Full Stack. Gosto de aprender colocando a mão na massa: criar projetos,
 resolver problemas, experimentar tecnologias e transformar conhecimento em algo que possa ser utilizado de verdade.
 Meu objetivo é evoluir constantemente como desenvolvedora e construir soluções que unam tecnologia, criatividade e propósito.
+
 YAML
+
 name: Beatriz Guerra
 education: Computer Engineering
 
@@ -64,13 +66,39 @@ currently_learning:
 
 mindset: "Learn. Build. Improve. Repeat."
 
-> TECH_STACK --scanLANGUAGESFRAMEWORKS & DEVELOPMENTDATABASES & TOOLS> TOOLS.IN_USESYSTEMTECHNOLOGYSTATUS🌐HTML5ACTIVE🎨CSS3ACTIVE⚡JavaScriptACTIVE⚛️ReactLEARNING☕JavaLEARNING🗄️SQL / DatabasesLEARNING🔧Git & GitHubACTIVE🖥️VS CodeACTIVE> PROJECTS --open💻 Personal PortfolioPortfolio pessoal desenvolvido para apresentar minha trajetória, habilidades e projetos.StackHTML CSS JavaScript🚀 More Projects IncomingNovos projetos estão sendo desenvolvidos enquanto amplio meus conhecimentos em desenvolvimento web e Full Stack.StatusBUILDING...SYSTEM NOTE: Mais projetos serão adicionados conforme minha jornada de desenvolvimento evolui.> CURRENT_MISSION.shBash$ ./current-mission.sh
+> TECH_STACK --scanLANGUAGESFRAMEWORKS & DEVELOPMENTDATABASES & TOOLS>
+
+ TOOLS.IN_USESYSTEMTECHNOLOGYSTATUS
+
+🌐HTML5ACTIVE
+🎨CSS3ACTIVE
+⚡JavaScriptACTIVE
+⚛️ReactLEARNING
+☕JavaLEARNING
+🗄️SQL / DatabasesLEARNING
+🔧Git & GitHubACTIVE
+🖥️VS CodeACTIVE> PROJECTS
+
+ --open
+💻 Personal Portfolio
+
+Portfolio pessoal desenvolvido para apresentar minha trajetória, habilidades e projetos.
+
+Stack
+HTML CSS JavaScript
+
+🚀 More Projects Incoming
+
+Novos projetos estão sendo desenvolvidos enquanto amplio meus conhecimentos em desenvolvimento web e Full Stack.
+
+StatusBUILDING...SYSTEM NOTE: Mais projetos serão adicionados conforme minha jornada de desenvolvimento evolui.>
+CURRENT_MISSION.shBash$ ./current-mission.sh
 
 [■■■■■■■■■■■■■■______] 70%
 
 > Improve JavaScript ............... [OK]
 > Master React ..................... [IN PROGRESS]
-> Build Full-Stack projects ....... [IN PROGRESS]
+> Build Full-Stack projects ........ [IN PROGRESS]
 > Improve Git & GitHub ............. [OK]
 > Learn APIs ....................... [IN PROGRESS]
 > Expand database knowledge ........ [IN PROGRESS]
@@ -96,16 +124,5 @@ Next objective:
 
 
 <!--
-**BeeaGuerra/BeeaGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**BeeaGuerra/BeeaGuerra** is my ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
