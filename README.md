@@ -128,12 +128,66 @@ Next objective:
 
 ## `> GITHUB_STATS --analyze
 
-```text
-> CONTRIBUTION_STREAK
-> ACTIVITY_GRAPH
-> TROPHIES --unlock
-> CONTRIBUTION_MATRIX
-> CONNECT_TO_NETWORK
+
+---
+
+## `> GITHUB_STATS --analyze
+
+## `> 🔥 CONTRIBUTION_STREAK
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=BeeaGuerra&theme=midnight-purple&hide_border=true&background=0D1117&ring=9D65C9&fire=9D65C9&currStreakLabel=9D65C9"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+## `> 📊 ACTIVITY_GRAPH
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BeeaGuerra&bg_color=0D1117&color=9D65C9&line=9D65C9&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+## `> 🏆 TROPHIES --unlock
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=BeeaGuerra&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</p>
+
+## `> 🧊 CONTRIBUTION_MATRIX --3D
+
+<p align="center">
+  <img
+    src="https://github-profiles-insights.vercel.app/api/contrib-3d?username=BeeaGuerra&style=alberto&animate=true"
+    width="100%"
+    alt="Animated 3D Contribution Calendar"
+  />
+</p>
+
+---
+
+## `> 🌐 CONNECT_TO_NETWORK
+
+<p align="center">
+  <a href="https://github.com/BeeaGuerra">
+    <img src="https://img.shields.io/badge/GitHub-BeeaGuerra-9D65C9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"THE FUTURE IS BUILT BY THOSE WHO CREATE IT."</i>
+  <br/>
+  <b>SYSTEM STATUS: ONLINE</b>
+</p>
+
 
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
