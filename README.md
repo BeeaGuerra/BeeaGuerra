@@ -39,7 +39,7 @@
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
-## `> ABOUT_ME.exe
+## `> ABOUT_ME.exe`
 Olá! Eu sou a Beatriz Guerra, estudante de Engenharia da Computação e apaixonada por tecnologia, desenvolvimento de software e
 inovação. Minha jornada na programação começou pelo desenvolvimento web, onde descobri o quanto gosto de transformar ideias em
 interfaces e soluções funcionais. Atualmente, venho construindo minha base em HTML, CSS e JavaScript, enquanto avanço nos
@@ -68,20 +68,24 @@ currently_learning:
 mindset: "Learn. Build. Improve. Repeat."
 ```
 
-> TECH_STACK --scanLANGUAGESFRAMEWORKS & DEVELOPMENTDATABASES & TOOLS>
+## `> TECH_STACK --scan
 
- TOOLS.IN_USESYSTEMTECHNOLOGYSTATUS
+LANGUAGESFRAMEWORKS & DEVELOPMENTDATABASES & TOOLS>
 
-🌐HTML5ACTIVE
-🎨CSS3ACTIVE
-⚡JavaScriptACTIVE
-⚛️ReactLEARNING
-☕JavaLEARNING
-🗄️SQL / DatabasesLEARNING
-🔧Git & GitHubACTIVE
-🖥️VS CodeACTIVE> PROJECTS
+ TOOLS.IN_USE 
+ |    SYSTEM    |    TECHNOLOGY    |    STATUS
 
- --open
+   🌐          HTML5                 ACTIVE
+   🎨          CSS3                  ACTIVE
+   ⚡          JavaScript            ACTIVE
+   ⚛️          React                 LEARNING
+   ☕          Java                  LEARNING
+   🗄️          SQL / Databases       LEARNING
+   🔧          Git & GitHub          ACTIVE
+   🖥️          VS Code               ACTIVE
+
+## `> PROJECTS --open
+
 💻 Personal Portfolio
 
 Portfolio pessoal desenvolvido para apresentar minha trajetória, habilidades e projetos.
