@@ -23,22 +23,7 @@
 
 ## `> SYSTEM.INIT()`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                  BEATRIZ GUERRA // PROFILE                   │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  STATUS        : ONLINE                                      │
-│  ROLE          : COMPUTER ENGINEERING STUDENT                │
-│  SPECIALIZATION: SOFTWARE DEVELOPMENT                        │
-│  CURRENT MODE  : LEARNING • BUILDING • EVOLVING              │
-│  LOCATION      : BRAZIL 🇧🇷                                   │
-│                                                              │
-│  SYSTEM MESSAGE:                                             │
-│  "Turning ideas into technology, one project at a time."     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+
 ## `> ABOUT_ME.exe`
 Olá! Eu sou a Beatriz Guerra, estudante de Engenharia da Computação e apaixonada por tecnologia, desenvolvimento de software e
 inovação. Minha jornada na programação começou pelo desenvolvimento web, onde descobri o quanto gosto de transformar ideias em
@@ -85,7 +70,7 @@ mindset: "Learn. Build. Improve. Repeat."
 
 ---
 
-## `> PROJECTS --open
+## `> PROJECTS --open`
 
 ### 💻 Personal Portfolio
 
@@ -103,7 +88,7 @@ Novos projetos estão sendo desenvolvidos enquanto amplio meus conhecimentos em 
 
 ---
 
-## `> CURRENT_MISSION.sh
+## `> CURRENT_MISSION.sh`
 
 ```bash
 $ ./current-mission.sh
@@ -126,14 +111,9 @@ Next objective:
 
 ---
 
-## `> GITHUB_STATS --analyze
+## `> GITHUB_STATS --analyze`
 
-
----
-
-## `> GITHUB_STATS --analyze
-
-## `> 🔥 CONTRIBUTION_STREAK
+## `> 🔥 CONTRIBUTION_STREAK`
 
 <p align="center">
   <img
@@ -142,7 +122,7 @@ Next objective:
   />
 </p>
 
-## `> 📊 ACTIVITY_GRAPH
+## `> 📊 ACTIVITY_GRAPH`
 
 <p align="center">
   <img
@@ -152,7 +132,7 @@ Next objective:
   />
 </p>
 
-## `> 🏆 TROPHIES --unlock
+## `> 🏆 TROPHIES --unlock`
 
 <p align="center">
   <img
@@ -174,7 +154,7 @@ Next objective:
 
 ---
 
-## `> 🌐 CONNECT_TO_NETWORK
+## `> 🌐 CONNECT_TO_NETWORK`
 
 <p align="center">
   <a href="https://github.com/BeeaGuerra">
@@ -188,15 +168,6 @@ Next objective:
   <b>SYSTEM STATUS: ONLINE</b>
 </p>
 
-
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║       "THE FUTURE IS BUILT BY THOSE WHO CREATE IT."          ║
-║                                                              ║
-║                  SYSTEM STATUS: ONLINE                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 <p align="center">
   <img
