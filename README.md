@@ -39,7 +39,7 @@
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
-> ABOUT_ME.exe
+## `> ABOUT_ME.exe
 Olá! Eu sou a Beatriz Guerra, estudante de Engenharia da Computação e apaixonada por tecnologia, desenvolvimento de software e
 inovação. Minha jornada na programação começou pelo desenvolvimento web, onde descobri o quanto gosto de transformar ideias em
 interfaces e soluções funcionais. Atualmente, venho construindo minha base em HTML, CSS e JavaScript, enquanto avanço nos
@@ -66,6 +66,7 @@ currently_learning:
 - Software Engineering
 
 mindset: "Learn. Build. Improve. Repeat."
+```
 
 > TECH_STACK --scanLANGUAGESFRAMEWORKS & DEVELOPMENTDATABASES & TOOLS>
 
