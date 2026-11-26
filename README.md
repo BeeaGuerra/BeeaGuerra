@@ -111,7 +111,7 @@ Next objective:
 
 ---
 
-## `> GITHUB_STATS --analyze`
+## > GITHUB_STATS --analyze
 
 ## `> 🔥 CONTRIBUTION_STREAK`
 
