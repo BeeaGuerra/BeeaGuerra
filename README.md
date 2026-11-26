@@ -68,37 +68,45 @@ currently_learning:
 mindset: "Learn. Build. Improve. Repeat."
 ```
 
-## `> TECH_STACK --scan
+## > TECH_STACK --scan
 
-LANGUAGESFRAMEWORKS & DEVELOPMENTDATABASES & TOOLS>
+### LANGUAGES, FRAMEWORKS & DEVELOPMENT TOOLS
 
- TOOLS.IN_USE 
- |    SYSTEM    |    TECHNOLOGY    |    STATUS
+| TECHNOLOGY | STATUS |
+|:---|:---:|
+| 🌐 HTML5 | 🟢 ACTIVE |
+| 🎨 CSS3 | 🟢 ACTIVE |
+| ⚡ JavaScript | 🟢 ACTIVE |
+| ⚛️ React | 🟡 LEARNING |
+| ☕ Java | 🟡 LEARNING |
+| 🗄️ SQL / Databases | 🟡 LEARNING |
+| 🔧 Git & GitHub | 🟢 ACTIVE |
+| 🖥️ VS Code | 🟢 ACTIVE |
 
-   🌐          HTML5                 ACTIVE
-   🎨          CSS3                  ACTIVE
-   ⚡          JavaScript            ACTIVE
-   ⚛️          React                 LEARNING
-   ☕          Java                  LEARNING
-   🗄️          SQL / Databases       LEARNING
-   🔧          Git & GitHub          ACTIVE
-   🖥️          VS Code               ACTIVE
+---
 
 ## `> PROJECTS --open
 
-💻 Personal Portfolio
+### 💻 Personal Portfolio
 
 Portfolio pessoal desenvolvido para apresentar minha trajetória, habilidades e projetos.
 
-Stack
-HTML CSS JavaScript
+**Stack:** HTML | CSS | JavaScript
 
-🚀 More Projects Incoming
+### 🚀 More Projects Incoming
 
 Novos projetos estão sendo desenvolvidos enquanto amplio meus conhecimentos em desenvolvimento web e Full Stack.
 
-StatusBUILDING...SYSTEM NOTE: Mais projetos serão adicionados conforme minha jornada de desenvolvimento evolui.>
-CURRENT_MISSION.shBash$ ./current-mission.sh
+> **STATUS:** BUILDING...
+>
+> **SYSTEM NOTE:** Mais projetos serão adicionados conforme minha jornada de desenvolvimento evolui.
+
+---
+
+## `> CURRENT_MISSION.sh
+
+```bash
+$ ./current-mission.sh
 
 [■■■■■■■■■■■■■■______] 70%
 
@@ -114,7 +122,19 @@ MISSION STATUS: RUNNING...
 
 Next objective:
 → Transform knowledge into real-world projects.
-> GITHUB_STATS --analyze> CONTRIBUTION_STREAK> ACTIVITY_GRAPH> TROPHIES --unlock> CONTRIBUTION_MATRIX> CONNECT_TO_NETWORKPlaintext
+```
+
+---
+
+## `> GITHUB_STATS --analyze
+
+```text
+> CONTRIBUTION_STREAK
+> ACTIVITY_GRAPH
+> TROPHIES --unlock
+> CONTRIBUTION_MATRIX
+> CONNECT_TO_NETWORK
+
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║       "THE FUTURE IS BUILT BY THOSE WHO CREATE IT."          ║
@@ -124,11 +144,15 @@ Next objective:
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9d65c9,50:3b234a,100:16121a"/>
-
-</div>
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9d65c9,50:3b234a,100:16121a"
+    width="100%"
+    alt="Purple wave footer"
+  />
+</p>
 
 <!--
-**BeeaGuerra/BeeaGuerra** is my ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BeeaGuerra/BeeaGuerra** is my special repository
+because this README appears on my GitHub profile.
 -->
