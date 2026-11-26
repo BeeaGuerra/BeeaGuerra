@@ -39,7 +39,14 @@
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 > ABOUT_ME.exe
-Olá! Eu sou a Beatriz Guerra, estudante de Engenharia da Computação e apaixonada por tecnologia, desenvolvimento de software e inovação.Minha jornada na programação começou pelo desenvolvimento web, onde descobri o quanto gosto de transformar ideias em interfaces e soluções funcionais.Atualmente, venho construindo minha base em HTML, CSS e JavaScript, enquanto avanço nos estudos de React, Java, bancos de dados e desenvolvimento Full Stack.Gosto de aprender colocando a mão na massa: criar projetos, resolver problemas, experimentar tecnologias e transformar conhecimento em algo que possa ser utilizado de verdade.Meu objetivo é evoluir constantemente como desenvolvedora e construir soluções que unam tecnologia, criatividade e propósito.YAMLname: Beatriz Guerra
+Olá! Eu sou a Beatriz Guerra, estudante de Engenharia da Computação e apaixonada por tecnologia, desenvolvimento de software e
+inovação.Minha jornada na programação começou pelo desenvolvimento web, onde descobri o quanto gosto de transformar ideias em
+interfaces e soluções funcionais.Atualmente, venho construindo minha base em HTML, CSS e JavaScript, enquanto avanço nos estudos
+de React, Java, bancos de dados e desenvolvimento Full Stack.Gosto de aprender colocando a mão na massa: criar projetos,
+resolver problemas, experimentar tecnologias e transformar conhecimento em algo que possa ser utilizado de verdade.
+Meu objetivo é evoluir constantemente como desenvolvedora e construir soluções que unam tecnologia, criatividade e propósito.
+YAML
+name: Beatriz Guerra
 education: Computer Engineering
 
 focus:
@@ -59,7 +66,7 @@ mindset: "Learn. Build. Improve. Repeat."
 
 > TECH_STACK --scanLANGUAGESFRAMEWORKS & DEVELOPMENTDATABASES & TOOLS> TOOLS.IN_USESYSTEMTECHNOLOGYSTATUS🌐HTML5ACTIVE🎨CSS3ACTIVE⚡JavaScriptACTIVE⚛️ReactLEARNING☕JavaLEARNING🗄️SQL / DatabasesLEARNING🔧Git & GitHubACTIVE🖥️VS CodeACTIVE> PROJECTS --open💻 Personal PortfolioPortfolio pessoal desenvolvido para apresentar minha trajetória, habilidades e projetos.StackHTML CSS JavaScript🚀 More Projects IncomingNovos projetos estão sendo desenvolvidos enquanto amplio meus conhecimentos em desenvolvimento web e Full Stack.StatusBUILDING...SYSTEM NOTE: Mais projetos serão adicionados conforme minha jornada de desenvolvimento evolui.> CURRENT_MISSION.shBash$ ./current-mission.sh
 
-[■■■■■■■■■■■■■■░░░░░░] 70%
+[■■■■■■■■■■■■■■______] 70%
 
 > Improve JavaScript ............... [OK]
 > Master React ..................... [IN PROGRESS]
@@ -83,7 +90,7 @@ Next objective:
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00e5ff,50:15152b,100:0f0f17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9d65c9,50:3b234a,100:16121a"/>
 
 </div>
 
