@@ -38,6 +38,7 @@
 │  "Turning ideas into technology, one project at a time."     │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+```
 > ABOUT_ME.exe
 Olá! Eu sou a Beatriz Guerra, estudante de Engenharia da Computação e apaixonada por tecnologia, desenvolvimento de software e
 inovação. Minha jornada na programação começou pelo desenvolvimento web, onde descobri o quanto gosto de transformar ideias em
@@ -46,7 +47,7 @@ estudos de React, Java, bancos de dados e desenvolvimento Full Stack. Gosto de a
 resolver problemas, experimentar tecnologias e transformar conhecimento em algo que possa ser utilizado de verdade.
 Meu objetivo é evoluir constantemente como desenvolvedora e construir soluções que unam tecnologia, criatividade e propósito.
 
-YAML
+```YAML
 
 name: Beatriz Guerra
 education: Computer Engineering
