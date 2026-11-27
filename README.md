@@ -132,7 +132,7 @@ Next objective:
   />
 </p>
 
-## `> 🏆 TROPHIES --unlock`
+### 🏆 TROPHIES --unlock
 
 <p align="center">
   <img
